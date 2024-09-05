@@ -8,6 +8,10 @@ Learnings and insights from the 30-Day SOC Analyst Challenge, a self-paced progr
 
 To understand the fundamentals of creating logical diagrams to visualize network infrastructure and create a basic logical diagram for a sample network.
 
+### Tools Used
+
+- draw.io for creating network diagrams
+  
 ### Skills Learned
 
 - Logical Diagram Creation: Learned the fundamentals of creating logical diagrams for network infrastructure.
@@ -16,16 +20,12 @@ To understand the fundamentals of creating logical diagrams to visualize network
 - Network Infrastructure Knowledge: Gained insight into network topologies and how different components interact within a SOC environment.
 - Visualization of Security Architectures: Learned to visualize secure communication paths and segmentations in a network.
 
-### Tools Used
-
-- draw.io for creating network diagrams
-
 ## Summary of Achievement
 
 The diagram depicts a network architecture with a SOC Analyst laptop connecting to an Elastic and Kibana stack, a Windows server, a Flee server, and an Ubuntu server.
 
 ![MYDFIR 30 DAY SOC challenge  drawio (1)](https://github.com/user-attachments/assets/c107ad73-8cb0-4f4a-a94c-31f56965c353)
-*Ref 1: Network Diagram*
+*Ref 1: Network Architecture Diagram*
 
 Components
 
