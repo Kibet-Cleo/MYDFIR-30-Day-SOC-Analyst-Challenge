@@ -1,14 +1,14 @@
 # MYDFIR-30-Day-SOC-Analyst-Challenge
+
 Learnings and insights from the 30-Day SOC Analyst Challenge, a self-paced program simulating a Security Operations Center (SOC) analyst experience. This repository tracks my progress, including notes and key takeaways from challenges and exercises in threat detection, incident response, and security analysis.
-# PROJECTNAME
+
+# How To Create a Logical Diagram | Day 1
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+To understand the fundamentals of creating logical diagrams to visualize network infrastructure and create a basic logical diagram for a sample network.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
