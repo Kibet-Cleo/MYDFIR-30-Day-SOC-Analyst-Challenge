@@ -25,7 +25,7 @@ To understand the fundamentals of creating logical diagrams to visualize network
 The diagram depicts a network architecture with a SOC Analyst laptop connecting to an Elastic and Kibana stack, a Windows server, a Flee server, and an Ubuntu server.
 
 ![MYDFIR 30 DAY SOC challenge  drawio (1)](https://github.com/user-attachments/assets/c107ad73-8cb0-4f4a-a94c-31f56965c353)
-*Ref 1: Network Architecture Diagram*
+*Ref 1: Network Architecture*
 
 Components
 
@@ -36,5 +36,5 @@ Components
 - Flee Server: Another example of a managed agent, potentially used for specific tasks or services. It also forwards its logs to Elastic & Kibana.
 - Ubuntu Server: Another managed agent, potentially serving as a web server or application server. It forwards logs for analysis and security monitoring.
 - OS Ticket Server: A system that handles the creation and tracking of tickets related to potential security incidents or technical issues detected by Elastic & Kibana.
-- Attacker Laptop: Represents an external attacker attempting to compromise the network. This laptop is running a Kali Linux distribution, a popular tool for penetration testing and security assessments.
+- Attacker Laptop: This represents an external attacker attempting to compromise the network. This laptop is running a Kali Linux distribution, a popular tool for penetration testing and security assessments.
 - C2 (Command & Control) Server: A server used by the attacker to manage and control compromised systems. This C2 server uses the 'Mythic' framework, a popular framework for building and managing C2 infrastructures.
