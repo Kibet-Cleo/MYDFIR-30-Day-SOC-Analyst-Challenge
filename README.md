@@ -10,24 +10,17 @@ To understand the fundamentals of creating logical diagrams to visualize network
 
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Logical Diagram Creation: Learned the fundamentals of creating logical diagrams for network infrastructure.
+- Network Visualization: Developed an understanding of how to represent various network components, such as firewalls, routers, servers, and endpoints.
+- Draw.io Proficiency: Gained hands-on experience using draw.io for creating network diagrams.
+- Network Infrastructure Knowledge: Gained insight into network topologies and how different components interact within a SOC environment.
+- Visualization of Security Architectures: Learned to visualize secure communication paths and segmentations in a network.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- draw.io for creating network diagrams
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Summary of Achievement
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
+![MYDFIR 30 DAY SOC challenge  drawio (1)](https://github.com/user-attachments/assets/c107ad73-8cb0-4f4a-a94c-31f56965c353)
 *Ref 1: Network Diagram*
